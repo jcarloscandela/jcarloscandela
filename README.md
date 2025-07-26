@@ -1,7 +1,8 @@
 # 👨‍💻 Juan Carlos Candela Bordera
 
 **Computer Engineer | Senior Software Developer**  
-📍 Barcelona, Spain | 🌐 [jcarloscandela.github.io](https://github.com/jcarloscandela)  
+📍 Barcelona, Spain
+🌐 [jcarloscandela.github.io](https://github.com/jcarloscandela)  
 🔗 [LinkedIn](https://linkedin.com/in/jcarloscandela) 
 
 ---
