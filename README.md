@@ -11,11 +11,11 @@ I'm a passionate and results-driven full-stack developer with over 7 years of ex
 ---
 
 🚀 **What I Work With**  
-- **Back-end:** .NET, CQRS, DDD, MediatR, EF, Azure Functions
-- **Front-end:** Angular, React, Ionic / Capactior, DevExtreme, PrimeNG  
-- **Cloud & DevOps:** Azure DevOps, Azure Cloud(App Services, Service Bus, Blob Storage, KeyVault...), Docker  
-- **Testing:** xUnit, NUnit, Selenium, NSubstitute, Moq  
-- **AI/ML:** Python, Semantic Kernel, MCP, Github Copilot
+- **Back-end:** .NET, CQRS, DDD, MediatR, EF, Azure Functions, MassTransit
+- **Front-end:** Angular, React, Ionic / Capactior, DevExtreme, PrimeNG, Angular Material  
+- **Cloud & DevOps:** Azure DevOps, Docker, Azure Cloud(App Services, Service Bus, Blob Storage, KeyVault...) 
+- **Testing:** xUnit, NUnit, Selenium, NSubstitute, Moq, Postman 
+- **AI/ML:** Python, Semantic Kernel, MCP, Github Copilot, Cline
 - **Databases:** SQL Server, MongoDB, PostgreSQL
 
 ---
